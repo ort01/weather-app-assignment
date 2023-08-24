@@ -1,10 +1,10 @@
 ## React Weather project to test your abilities
 
-Podla toho ci vypracovavate toto zadanie na pohovore, alebo doma, vypracujte todo-home.txt, alebo todo-on-site.txt.
+Podla toho ci vypracovavate toto zadanie na pohovore, alebo doma, vypracujte todo-on-site.md alebo todo-home.md.
 
 -----
 
-Depending on whether you are working on this task during an interview or at home, complete todo-home.txt or todo-on-site.txt.
+Depending on whether you are working on this task during an interview or at home, complete todo-on-site.md or todo-home.md.
 
 
 ## Available Scripts
