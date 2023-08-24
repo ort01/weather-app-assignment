@@ -1,8 +1,0 @@
-Aplikacia momentalne podla zadaneho retazca vyhlada a zobrazi aktualne pocasie v meste.
-Vyuziva pri tom open api "openweathermap".
-
-Je vsak mozne vyhladat len jedno mesto naraz.
-Rozsirime aplikaciu tak, ze bude mozne zadat viacej miest oddelenych ciarkou.
-Pre zobrazenie pocasia pre mesto doimplementujte pripraveny konponent.
-
-Zadanie je v rozsahu 10 az 15 minut.
