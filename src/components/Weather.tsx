@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React, { FunctionComponent, useEffect } from 'react';
 import { useState } from 'react';
 import axios from 'axios';
 import { InfinitySpin } from 'react-loader-spinner';
@@ -8,7 +8,7 @@ import { WeatherResponse } from '../types/WeatherResponse';
 import { CityWeather } from './CityWeather';
 import { toDate } from './tools';
 
-function Weather() {
+const Weather: FunctionComponent = () => {
   const [query, setQuery] = useState('');
   const [weather, setWeather] = useState<{ loading: Boolean, data?: WeatherResponse, error: Boolean }>({
     loading: false,
