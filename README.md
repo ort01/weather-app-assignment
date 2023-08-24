@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+## React Weather project to test your abilities
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Podla toho ci vypracovavate toto zadanie na pohovore, alebo doma, vypracujte todo-home.txt, alebo todo-on-site.txt.
+
+-----
+
+Depending on whether you are working on this task during an interview or at home, complete todo-home.txt or todo-on-site.txt.
+
 
 ## Available Scripts
 
